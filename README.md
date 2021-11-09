@@ -4,6 +4,8 @@
 <img src="https://readme-jokes.vercel.app/api?theme=watermelon" alt="Jokes Card" />
 
 
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/lukeddm)
+
 <!--
 **lukeddm/lukeddm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
