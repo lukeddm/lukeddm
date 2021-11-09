@@ -1,6 +1,7 @@
-<!-- Markdown -->
+### A laugh a day keeps the doctor away.
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api?theme=watermelon" alt="Jokes Card" />
 
 
 <!--
