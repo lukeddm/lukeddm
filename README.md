@@ -1,4 +1,4 @@
-I'm a burgeoning software developer living on the north shore of Lake Superior.  When I'm not working on increasing my tech skillset you'll likely find me out fishing the many lakes of northern Minnesota with my wife, shooting photos with my dogs, or exploring the beautiful outdoors.
+I'm a burgeoning full-stack software developer living on the north shore of Lake Superior.  When I'm not working on increasing my tech skillset you'll likely find me out fishing the many lakes of northern Minnesota with my wife, shooting photos with my dogs, or exploring the beautiful outdoors.
 <h1></h1>
 Technologies I'm studying:
 
